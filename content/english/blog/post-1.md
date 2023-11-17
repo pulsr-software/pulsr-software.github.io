@@ -25,9 +25,13 @@ Time dilation phenomenon can be seen when we compare two perfectly synchronized 
 
 ### Gravitational time dilation
 
-Now we can make the same experience, with two clocks at the same altitude on earth. Now we elevate one clock compared to the other one. The higher one will experience less potential well, thus a slower time compared to the one lower ! This also needs to be taken into account into GNSS system.
+We can make the same experience, with two clocks at the same altitude on earth. Now we elevate one clock compared to the other one. The higher one will experience less gravitational potential well, thus a slower time compared to the one lower ! This also needs to be taken into account into GNSS system.
 
-### Block Universe
+### Shapiro time delay
+
+When light travel, it will follow the spacetime geodesic, that is curved by mass. So light passing in the vicinity of massive object will experience a delay, called the Shapiro time delay.
+
+### The block Universe
 
 If we take the Einstein relativities theory serioulsly, there is now definition of "present time". Our past is not vanishing to nothingness while we stay in the present voyaging to the future. The past, our past has a real existence, it still "exists", althought is inaccessible.
 
@@ -41,5 +45,5 @@ What is time really ? Einstein himself answered this question with the self-refl
 
 > Time is what is measured by clocks
 
-Pulsars are a fantastic opportunity to build a clock that measure time, along with atomic clocks and its successors, optical-lattice clocks.
+Pulsars timing is a fantastic opportunity to build a clock that **measure time in a new way**, along with atomic clocks and its successors, optical-lattice clocks.
 

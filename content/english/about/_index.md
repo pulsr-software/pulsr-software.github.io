@@ -15,4 +15,4 @@ At **PulSR** our mission is to build an **industrial, flat and compact-size phas
 
 Our technology is based on iterations on an innovative L-Band aperture array radiotelescope, adapted to pulsar observations (White paper under request).
 
-We are based in Lyon (France), PulSR was funded in 2022 by an Astrophysicist (Julien L. - CSO), and R&D Engineer (Alexis R. - CEO & CTO) and a Business Developer (Nicolas G. - CFO). We are at pre-seed stage and currently developping the prototype.
+We are based in Lyon (France), PulSR was funded in 2022 by an experienced team : an Astrophysicist (Julien L. - CSO), and R&D Engineer (Alexis R. - CEO & CTO) and a Business Developer (Nicolas G. - CFO). We are at pre-seed stage and currently developping the prototype.

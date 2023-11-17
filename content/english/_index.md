@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Accurate Universal Timing from the Stars"
-  content: "Whe are building a new solution for **timing & synchronisation**, based on real-time radio pulsar observations with a cutting edge compact and flat radiotelescope (under development)"
+  content: "Whe are building a new solution for **timing & synchronisation**, based on real-time radio **pulsar** observations with a cutting edge compact and flat radiotelescope (under development)"
   image: "/images/banner.png"
   button:
     enable: false
@@ -42,10 +42,10 @@ features:
     image: "/images/pulsars.png"
     content: "We aim to provide resilient timing & synchronisation for critical infrastructures (without any network involved) with pulsar timing on a compact radiotelescope."
     bulletpoints:
-      - "Infrastructures-free"
+      - "Free of Network infrastructures"
       - "No dependencies on Satellites / Atomic Clock / Networks"
       - "Ultra-stable oscillators"
-      - "Target sub-microseconds uncertainties"
+      - "Microseconds-range uncertainties"
     button:
       enable: false
       label: ""
