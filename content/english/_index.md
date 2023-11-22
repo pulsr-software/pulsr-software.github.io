@@ -40,12 +40,14 @@ features:
 
   - title: "Pulsar Time : Stable, Accurate & Reliable"
     image: "/images/pulsars.png"
-    content: "We aim to provide resilient timing & synchronisation for critical infrastructures (without any network involved) with pulsar timing on a compact radiotelescope."
+    content: "We aim to provide resilient timing & synchronisation for critical infrastructures (without any connectivity involved) with pulsar timing on a compact radiotelescope."
     bulletpoints:
-      - "Free of Network infrastructures"
-      - "No dependencies on Satellites / Atomic Clock / Networks"
-      - "Ultra-stable oscillators"
-      - "Microseconds-range uncertainties"
+      - "Free of Network Infrastructures - only a receiver"
+      - "No Dependencies on Satellites or Atomic Clock"
+      - "Ultra-Wideband Signals - Resistant to Interferences"
+      - "Ultra Weak Signal - Resistant to Spoofing"
+      - "Ultra-Stable Oscillators"
+      - "Microseconds-Range Uncertainties"
     button:
       enable: false
       label: ""
