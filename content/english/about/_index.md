@@ -5,14 +5,19 @@ description: "this is meta description"
 image: "/images/pulsar-timing.png"
 draft: false
 ---
-The Pulsars have been discovered by Jocelyn Bell in 1967, and studied ever since with hughe-size radiotelescopes by the scientic community.
-They are neutron stars, with ultra-fast spinning, and the rotation speed can be very precise, thus leading to a new category of oscillators, stables overy hundreds of thousands of years.
-Pulsar is an abreviation of PULsating Radio Source : theses celestial bodies emits a powerfull radio-electromagnetic beam that behaves like a beacon in the sky, when crossing the observer path.
-However theses signal are very small due to the observed distances, and diffucults to observe.
-Today, they are used for measurements of low-frequency gravitationnal waves, in what is called a Pulsar Timing Array (PTA).
+The Pulsars were discovered by Jocelyn Bell in 1967 and have been studied extensively by the scientific community using huge-size radiotelescopes.
 
-At **PulSR** our mission is to build an **industrial, flat and compact-size phased-array radiotelescope**  capable of recieving and processing pulsar's signals, in order to bring to the industry a new and **alternative source to improve the resiliency of PNT systems**.
+They are neutron stars with ultra-fast spinning, and their rotation speed can be very precise, leading to a new category of oscillators that remain stable over hundreds of thousands of years. "Pulsar" is an abbreviation for "PULSAting Radio source": these celestial bodies emit a powerful radio-electromagnetic beam that behaves like a beacon in the sky when crossing the observer's path.
 
-Our technology is based on iterations on an innovative L-Band aperture array radiotelescope, adapted to pulsar observations (White paper under request).
+However, these signals are very faint due to the observed distances and are challenging to observe. Today, they are utilized for measuring low-frequency gravitational waves in what is known as a Pulsar Timing Array (PTA).
 
-We are based in Lyon (France), PulSR was funded in 2022 by an experienced team : an Astrophysicist (Julien L. - CSO), and R&D Engineer (Alexis R. - CEO & CTO) and a Business Developer (Nicolas G. - CFO). We are at pre-seed stage and currently developping the prototype.
+At **PulSR** our mission is to build an **industrial, flat and compact-size phased-array radiotelescope**  capable of receiving and processing pulsar signals, in order to bring to the industry a novel and **alternative source to improve the resiliency of PNT systems**.
+
+Our technology is based on iterations on an innovative L-Band aperture array radiotelescope, adapted to pulsar observations (White paper available under request).
+
+Based in Lyon (France), PulSR was founded in 2022 by an experienced team :
+- [Alexis Rigaud](https://www.linkedin.com/in/alexis-rigaud-20b6ba45/) - CEO & CTO - R&D Engineer
+- [Julien Lambert](https://www.linkedin.com/in/lambertjulien/) - CSO - Astrophysicist
+- [Nicolas George](https://www.linkedin.com/in/nicolasgeorge/) - Counsel & CFO - MBA
+
+We are at pre-seed stage and currently developping the prototype.

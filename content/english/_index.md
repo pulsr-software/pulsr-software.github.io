@@ -44,8 +44,8 @@ features:
     bulletpoints:
       - "Free of Network Infrastructures - only a receiver"
       - "No Dependencies on Satellites or Atomic Clock"
-      - "Ultra-Wideband Signals - Resistant to Interferences"
-      - "Ultra Weak Signal - Resistant to Spoofing"
+      - "Ultra-Wideband Signals - resistant to Interferences"
+      - "Ultra-Weak Signals - resistant to Spoofing"
       - "Ultra-Stable Oscillators"
       - "Microseconds-Range Uncertainties"
     button:
