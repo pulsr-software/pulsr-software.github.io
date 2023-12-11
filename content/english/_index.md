@@ -42,12 +42,10 @@ features:
     image: "/images/pulsars.png"
     content: "We aim to provide resilient timing & synchronisation for critical infrastructures (without any connectivity involved) with pulsar timing on a compact radiotelescope."
     bulletpoints:
-      - "Free of Network Infrastructures - only a receiver"
+      - "Free of Network Infrastructures"
       - "No Dependencies on Satellites or Atomic Clock"
-      - "Ultra-Wideband Signals - resistant to Interferences"
-      - "Ultra-Weak Signals - resistant to Spoofing"
-      - "Ultra-Stable Oscillators"
       - "Microseconds-Range Uncertainties"
+      - "Ultra-Stable Oscillators"
     button:
       enable: false
       label: ""
